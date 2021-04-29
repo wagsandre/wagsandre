@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wagsandre
 - 👀 I’m interested in computing at Google Cloud Platform and Game Development
-- 🌱 I’m currently learning GCP architecture and IaC pipeline
+- 🌱 I’m currently learning GCP architecture and IaC
 - 💞️ I’m looking to collaborate on any subject that I know
 - 📫 How to reach me ... you can't! :D
 
