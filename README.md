@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wagner
-- 👀 I’m interested in Cloud Solutions & Architecturing, and something related to Game Development
+- 👀 I’m interested in Cloud Solutions & Architecture, DevOps, and Game Development
 - 🌱 I’m currently studding and working with GCP Solutions and IaC using Terraform
 - 💞️ I’m looking to collaborate on any subject that I know
 - 📫 How to reach me ... wagsandre @ gmail
